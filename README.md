@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NLW Copa" title="NLW Copa" src="./public/nlw-copa.svg" />
+  <img alt="NLW Copa" title="NLW Copa" src="./public/logo.svg" />
 </h1>
 
 <h2 align="center">
