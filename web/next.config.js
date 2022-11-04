@@ -4,4 +4,13 @@ const nextConfig = {
   swcMinify: true,
 }
 
-module.exports = nextConfig
+const env = {
+  API_URL: (() => {
+    return 'http://localhost:3333'
+  })(),
+}
+
+module.exports = {
+  nextConfig,
+  env
+}
